@@ -18,4 +18,4 @@ if media >= 6:
     print ('Parabéns, você passou.')
 else:
     print ('Você reprovou, estude mais na próxima.')
-
+print ('Sua nota foi:',media)
