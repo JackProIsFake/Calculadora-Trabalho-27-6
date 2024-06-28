@@ -18,5 +18,5 @@ if media >= 5:
     print (f'{aluno} passou.')
 else:
     print (f'{aluno} reprovou.')
-print ('Sua nota foi:',media)
+print ('a nota média foi:',media)
 input()
