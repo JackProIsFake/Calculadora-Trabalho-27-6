@@ -19,3 +19,4 @@ if media >= 6:
 else:
     print ('Você reprovou, estude mais na próxima.')
 print ('Sua nota foi:',media)
+input()
