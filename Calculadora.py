@@ -14,9 +14,9 @@ nota_4 = float(input('4º Nota:'))
 notas = (nota_1 + nota_2 + nota_3 + nota_4)
 media = (notas/4)
 
-if media >= 6: 
-    print ('Parabéns, você passou.')
+if media >= 5: 
+    print (f'{aluno} passou.')
 else:
-    print ('Você reprovou, estude mais na próxima.')
+    print (f'{aluno} reprovou.')
 print ('Sua nota foi:',media)
 input()
